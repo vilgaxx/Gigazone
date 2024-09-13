@@ -1,7 +1,14 @@
+import { useEffect } from "react";
+
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Heading from "./components/Heading";
+
 const Legal = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scroll to top when component mounts
+  }, []);
+
   return (
     <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
       <Header />
@@ -84,7 +91,7 @@ const Legal = () => {
               rest of the world, the Internet may contain some material that is
               inappropriate for young audiences. There are a number of ways you
               can control what your child can see and do online. Filtering tools
-              are a great way to tailor your child's online experience, but
+              are a great way to tailor your child&apos;s online experience, but
               there is no substitute for parental involvement online. This
               message is being displayed to you as per the regulation from the
               Ministry of Communication & Information Technology, Government of
@@ -97,7 +104,7 @@ const Legal = () => {
             <h4>Refund Policy</h4>
             <p className="py-6  w-4/5 mx-auto text-justify">
               GigaZone Communication Pvt. Ltd. does not entertain refund of any
-              amounts that may have been paid by the 'subscriber' for an Annual
+              amounts that may have been paid by the &apos;subscriber&apos; for an Annual
               / Semi-Annual / Quarterly / Monthly plan. Only in case of
               non-feasibility of a new connection, refund is made by GigaZone.
               The time for a refund to be effected is 4-6 weeks. GigaZone
@@ -105,14 +112,14 @@ const Legal = () => {
               on a case-to-case basis, as needed. In case of billing disputes,
               GigaZone subscribers are required to email their specific concerns
               and the same will be addressed in 4-8 weeks, by way of a
-              discount/credit note passed in the account of the 'subscriber'.
+              discount/credit note passed in the account of the &apos;subscriber&apos;.
             </p>
             <h4>Privacy Policy</h4>
             <p className="py-6  w-4/5 mx-auto text-justify">
               This policy covers how GigaZone Communication Pvt. Ltd.
-              ("Company") treats personal information that the Company collects
+              (&quot;Company&quot;) treats personal information that the Company collects
               and receives, including information related to your past use of
-              the Company's products and services. Personal information is
+              the Company&apos;s products and services. Personal information is
               information about you that is personally identifiable like your
               name, address, email address, or phone number, etc.
             </p>
@@ -146,7 +153,7 @@ const Legal = () => {
               We believe it is necessary to share information in order to
               investigate, prevent, or take action regarding illegal activities,
               suspected fraud, situations involving potential threats to the
-              physical safety of any person, violations of the Company's terms
+              physical safety of any person, violations of the Company&apos;s terms
               of use, or as otherwise required by law.
               <br />
               We transfer information about you if the Company is acquired by or
@@ -167,8 +174,8 @@ const Legal = () => {
               works with vendors, partners, advertisers, and service providers
               in many different industries and categories of business. We
               reserve the right to send you certain communications relating to
-              the Company's service, such as service announcements,
-              administrative messages, and the Company's newsletter, that are
+              the Company&apos;s service, such as service announcements,
+              administrative messages, and the Company&apos;s newsletter, that are
               considered part of your account, without offering you the
               opportunity to opt out of receiving them.
             </p>

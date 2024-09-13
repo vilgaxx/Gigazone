@@ -1,7 +1,14 @@
 import Header from "./components/Header";
 import Footer from "./components/Footer";
 import Heading from "./components/Heading";
+import { useEffect } from "react";
+
 const Terms = () => {
+  
+  useEffect(() => {
+    window.scrollTo(0, 0); // Scroll to top when component mounts
+  }, []);
+
   return (
     <div className="pt-[4.75rem] lg:pt-[5.25rem] overflow-hidden">
       <Header />
@@ -14,7 +21,7 @@ const Terms = () => {
           />
           <p className="py-6 w-4/5 mx-auto text-justify">
             By being allowed access to this Site (as defined below), you enter
-            into the Site user agreement on the terms and conditions ("Terms")
+            into the Site user agreement on the terms and conditions (&quot;Terms&quot;)
             set out below. The Company (as defined herein) reserves the right to
             add to or change/modify the Terms. The Company reserves the right,
             at its sole discretion, to make changes to any section of the Site.
@@ -29,14 +36,14 @@ const Terms = () => {
             agree to be bound by those changes.
             <br />
             Set out below are the Terms governing the access, use of, and
-            downloads from this website, www.GigaZonecommunication.in ("Site"),
+            downloads from this website, www.GigaZonecommunication.in (&quot;Site&quot;),
             and includes any file or groups of files hosted on a computer and
             accessible by third parties through the internet by the use of any
             protocol used to transmit files through the internet and any
             collection of one or more inter-related web pages or documents which
             can be viewed in its entirety without leaving the applicable
             distinct URL when viewed by a browser program through a common URL.
-            It is expressly understood that the term "URL" means the electronic
+            It is expressly understood that the term &quot;URL&quot; means the electronic
             address of any document located on the web comprising a code or
             series of letters, numbers, and/or symbols, which corresponds to a
             specific location on the web.
@@ -49,7 +56,7 @@ const Terms = () => {
             <br />
             The materials on the Site are provided by GigaZone COMMUNICATION
             PVT. LTD., an Indian company, having its registered office at
-            [Company's Address] ("the Company") as a service to its users and
+            [Company&apos;s Address] (&quot;the Company&quot;) as a service to its users and
             subscribers, and may be used for informational purposes only. If you
             do not agree to the Terms, please do not access/use the Site or
             download any materials from it. The access to this Site is at the

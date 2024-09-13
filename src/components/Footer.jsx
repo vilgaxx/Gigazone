@@ -1,5 +1,6 @@
 import Section from "./Section";
 import { footerlinks, socials } from "../constants";
+import { Link } from "react-router-dom";
 
 const Footer = () => {
   return (
@@ -11,15 +12,15 @@ const Footer = () => {
 
         <ul className="flex gap-5 flex-wrap">
           {footerlinks.map((item) => (
-            <a
+            <Link
               key={item.id}
-              href={item.url}
+              to={item.url}
               className={`block relative font-code text-2xl uppercase text-n-1 transition-colors hover:text-color-1 ${
                 item.onlyMobile ? "lg:hidden" : ""
               } px-6 py-6 md:py-8 lg:-mr-0.25 lg:text-xs lg:font-semibold lg:text-n-1/50 lg:leading-5 lg:hover:text-n-1 xl:px-12`}
             >
               {item.title}
-            </a>
+            </Link>
           ))}
         </ul>
 
