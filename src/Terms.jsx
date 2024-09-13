@@ -36,7 +36,7 @@ const Terms = () => {
             agree to be bound by those changes.
             <br />
             Set out below are the Terms governing the access, use of, and
-            downloads from this website, www.GigaZonecommunication.in (&quot;Site&quot;),
+            downloads from this website, www.Gigazone.in (&quot;Site&quot;),
             and includes any file or groups of files hosted on a computer and
             accessible by third parties through the internet by the use of any
             protocol used to transmit files through the internet and any
@@ -54,7 +54,7 @@ const Terms = () => {
             [support@GigaZonecommunication.in] if you require any
             clarifications.
             <br />
-            The materials on the Site are provided by GigaZone COMMUNICATION
+            The materials on the Site are provided by GigaZone Solution
             PVT. LTD., an Indian company, having its registered office at
             [Company&apos;s Address] (&quot;the Company&quot;) as a service to its users and
             subscribers, and may be used for informational purposes only. If you

@@ -22,7 +22,7 @@ const Legal = () => {
           <div className="text-center">
             <p className="py-6  w-4/5 mx-auto text-justify">
               The information contained in this website
-              (www.GigaZonecommunication.in) is for general information purposes
+              (www.Gigazone.in) is for general information purposes
               only. This website is owned, operated, and managed by GigaZone
               Communication Pvt. Ltd. (GigaZone) and is intended to provide
               information about the products and services of GigaZone and its
@@ -103,7 +103,7 @@ const Legal = () => {
 
             <h4>Refund Policy</h4>
             <p className="py-6  w-4/5 mx-auto text-justify">
-              GigaZone Communication Pvt. Ltd. does not entertain refund of any
+              GigaZone Solution Pvt. Ltd. does not entertain refund of any
               amounts that may have been paid by the &apos;subscriber&apos; for an Annual
               / Semi-Annual / Quarterly / Monthly plan. Only in case of
               non-feasibility of a new connection, refund is made by GigaZone.
@@ -116,7 +116,7 @@ const Legal = () => {
             </p>
             <h4>Privacy Policy</h4>
             <p className="py-6  w-4/5 mx-auto text-justify">
-              This policy covers how GigaZone Communication Pvt. Ltd.
+              This policy covers how GigaZone Solution Pvt. Ltd.
               (&quot;Company&quot;) treats personal information that the Company collects
               and receives, including information related to your past use of
               the Company&apos;s products and services. Personal information is
