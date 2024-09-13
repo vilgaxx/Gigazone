@@ -10,14 +10,12 @@ const Footer = () => {
           © {new Date().getFullYear()}. All rights reserved.
         </p>
 
-        <ul className="flex gap-5 flex-wrap">
+        <ul className="flex gap-5 flex-wrap ">
           {footerlinks.map((item) => (
             <Link
               key={item.id}
               to={item.url}
-              className={`block relative font-code text-2xl uppercase text-n-1 transition-colors hover:text-color-1 ${
-                item.onlyMobile ? "lg:hidden" : ""
-              } px-6 py-6 md:py-8 lg:-mr-0.25 lg:text-xs lg:font-semibold lg:text-n-1/50 lg:leading-5 lg:hover:text-n-1 xl:px-12`}
+              className={`block relative font-code  transition-colors hover:text-color-1  md:py-8 lg:-mr-0.25 lg:text-xs lg:font-semibold lg:text-n-1/50 lg:leading-5 lg:hover:text-n-1 xl:px-12`}
             >
               {item.title}
             </Link>
