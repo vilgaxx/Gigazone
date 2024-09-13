@@ -20,27 +20,26 @@ const Legal = () => {
             className="mt-10"
           />
           <div className="text-center">
-            <p className="py-6  w-4/5 mx-auto text-justify">
-              The information contained in this website
-              (www.Gigazone.in) is for general information purposes
-              only. This website is owned, operated, and managed by GigaZone
-              Communication Pvt. Ltd. (GigaZone) and is intended to provide
-              information about the products and services of GigaZone and its
-              group or associate companies. While we endeavor to keep the
-              information up-to-date and correct, we make no representations or
-              warranties of any kind, express or implied, about the
-              completeness, accuracy (whether technical or otherwise),
-              typographical errors, reliability, suitability, or availability
-              with respect to the website or the information, products,
-              services, or related graphics contained on the website for any
-              purpose. Any reliance you place on such information is therefore
-              strictly at your own risk. In no event shall we be liable for any
-              loss or damage including without limitation, indirect or
-              consequential loss or damage, or any loss or damage whatsoever
-              arising from loss of data or profits arising out of, or in
-              connection with, the use of this website.
+            <p className="py-6  w-full mx-auto text-justify">
+              The information contained in this website (www.Gigazone.in) is for
+              general information purposes only. This website is owned,
+              operated, and managed by GigaZone Communication Pvt. Ltd.
+              (GigaZone) and is intended to provide information about the
+              products and services of GigaZone and its group or associate
+              companies. While we endeavor to keep the information up-to-date
+              and correct, we make no representations or warranties of any kind,
+              express or implied, about the completeness, accuracy (whether
+              technical or otherwise), typographical errors, reliability,
+              suitability, or availability with respect to the website or the
+              information, products, services, or related graphics contained on
+              the website for any purpose. Any reliance you place on such
+              information is therefore strictly at your own risk. In no event
+              shall we be liable for any loss or damage including without
+              limitation, indirect or consequential loss or damage, or any loss
+              or damage whatsoever arising from loss of data or profits arising
+              out of, or in connection with, the use of this website.
             </p>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               This website contains links to other websites which are not under
               the control of GigaZone. We have no control over the nature,
               content, and availability of those sites. The inclusion of any
@@ -61,7 +60,7 @@ const Legal = () => {
               or disclosed to, unauthorized parties during or after
               transmission.
             </p>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               Every effort is made to keep the website up and running smoothly.
               However, GigaZone takes no responsibility for, and will not be
               liable for, the website being temporarily unavailable due to
@@ -72,7 +71,7 @@ const Legal = () => {
               necessary to comply with a current judicial proceeding, any court
               order, or legal process served on us.
             </p>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               All details and conditions of specific offers and/or promotions
               are to be analyzed in fine print. Any access to or use of this
               site shall be deemed to be your agreement to and approval of all
@@ -80,7 +79,7 @@ const Legal = () => {
               conditions as mentioned on our website.
             </p>
             <h4>Legal</h4>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               Children are an integral part of our online community. The
               Internet offers kids many opportunities for learning, constructive
               entertainment, and personal growth. But there are a lot of risks
@@ -102,29 +101,31 @@ const Legal = () => {
             </h1>
 
             <h4>Refund Policy</h4>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               GigaZone Solution Pvt. Ltd. does not entertain refund of any
-              amounts that may have been paid by the &apos;subscriber&apos; for an Annual
-              / Semi-Annual / Quarterly / Monthly plan. Only in case of
-              non-feasibility of a new connection, refund is made by GigaZone.
-              The time for a refund to be effected is 4-6 weeks. GigaZone
-              provides service discounts in line with TRAI policy on the same,
-              on a case-to-case basis, as needed. In case of billing disputes,
-              GigaZone subscribers are required to email their specific concerns
-              and the same will be addressed in 4-8 weeks, by way of a
-              discount/credit note passed in the account of the &apos;subscriber&apos;.
+              amounts that may have been paid by the &apos;subscriber&apos; for
+              an Annual / Semi-Annual / Quarterly / Monthly plan. Only in case
+              of non-feasibility of a new connection, refund is made by
+              GigaZone. The time for a refund to be effected is 4-6 weeks.
+              GigaZone provides service discounts in line with TRAI policy on
+              the same, on a case-to-case basis, as needed. In case of billing
+              disputes, GigaZone subscribers are required to email their
+              specific concerns and the same will be addressed in 4-8 weeks, by
+              way of a discount/credit note passed in the account of the
+              &apos;subscriber&apos;.
             </p>
             <h4>Privacy Policy</h4>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               This policy covers how GigaZone Solution Pvt. Ltd.
-              (&quot;Company&quot;) treats personal information that the Company collects
-              and receives, including information related to your past use of
-              the Company&apos;s products and services. Personal information is
-              information about you that is personally identifiable like your
-              name, address, email address, or phone number, etc.
+              (&quot;Company&quot;) treats personal information that the Company
+              collects and receives, including information related to your past
+              use of the Company&apos;s products and services. Personal
+              information is information about you that is personally
+              identifiable like your name, address, email address, or phone
+              number, etc.
             </p>
             <h4>Information Collection and General Use</h4>
-            <p className="py-6  w-4/5 mx-auto text-justify">
+            <p className="py-6  w-full mx-auto text-justify">
               The Company collects personal information when you register with
               the Company, when you use the Company products or services, and
               when you visit the Company pages or the pages of certain partners
@@ -153,8 +154,8 @@ const Legal = () => {
               We believe it is necessary to share information in order to
               investigate, prevent, or take action regarding illegal activities,
               suspected fraud, situations involving potential threats to the
-              physical safety of any person, violations of the Company&apos;s terms
-              of use, or as otherwise required by law.
+              physical safety of any person, violations of the Company&apos;s
+              terms of use, or as otherwise required by law.
               <br />
               We transfer information about you if the Company is acquired by or
               merged with another company under a different management. In this
@@ -175,8 +176,8 @@ const Legal = () => {
               in many different industries and categories of business. We
               reserve the right to send you certain communications relating to
               the Company&apos;s service, such as service announcements,
-              administrative messages, and the Company&apos;s newsletter, that are
-              considered part of your account, without offering you the
+              administrative messages, and the Company&apos;s newsletter, that
+              are considered part of your account, without offering you the
               opportunity to opt out of receiving them.
             </p>
           </div>

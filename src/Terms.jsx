@@ -19,7 +19,7 @@ const Terms = () => {
             // text="Gigazone, Your Trusted Network Partner"
             className="mt-10"
           />
-          <p className="py-6 w-4/5 mx-auto text-justify">
+          <p className="py-6 w-full mx-auto text-justify">
             By being allowed access to this Site (as defined below), you enter
             into the Site user agreement on the terms and conditions (&quot;Terms&quot;)
             set out below. The Company (as defined herein) reserves the right to
