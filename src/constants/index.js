@@ -40,33 +40,33 @@ export const navigation = [
   {
     id: "0",
     title: "Features",
-    url: "#features",
+    url: "/#features",
   },
   {
     id: "1",
     title: "Pricing",
-    url: "#pricing",
+    url: "/#pricing",
   },
   {
     id: "2",
     title: "How to use",
-    url: "#how-to-use",
+    url: "/#how-to-use",
   },
   {
     id: "3",
     title: "Roadmap",
-    url: "#roadmap",
+    url: "/#roadmap",
   },
   {
     id: "4",
     title: "New account",
-    url: "#signup",
+    url: "/#signup",
     onlyMobile: true,
   },
   {
     id: "5",
     title: "Sign in",
-    url: "#login",
+    url: "/#login",
     onlyMobile: true,
   },
 ];
@@ -210,7 +210,7 @@ export const pricing = [
     id: "0",
     title: "Basic",
     description: "Balanced Speed and Data for Streaming and Gaming",
-    price: null,
+    price: 499,
     features: [
       "Speed: Up to 100 Mbps",
       "Data: Unlimited per month",
@@ -223,7 +223,7 @@ export const pricing = [
     id: "1",
     title: "Premium",
     description: "High-Speed Internet for Power Users and Families",
-    price: null,
+    price: 599,
     features: [
       "Speed: Up to 200 Mbps",
       "Data: Unlimited per month",
@@ -236,9 +236,9 @@ export const pricing = [
     id: "2",
     title: "Enterprise",
     description: "Reliable Connectivity for Growing Businesses",
-    price: null,
+    price: 699,
     features: [
-      "Speed: Up to 500 Mbps",
+      "Speed: Up to 300 Mbps",
       "Data: Unlimited per month",
       "Installation: Free",
       "Support: 24/7 Customer Service",

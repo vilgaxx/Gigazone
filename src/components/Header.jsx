@@ -6,11 +6,21 @@ import { navigation } from "../constants";
 import Button from "./Button";
 import MenuSvg from "../assets/svg/MenuSvg";
 import { HamburgerMenu } from "./design/Header";
-import { useState } from "react";
+import { useState,useEffect } from "react";
 
 const Header = () => {
   const pathname = useLocation();
   const [openNavigation, setOpenNavigation] = useState(false);
+
+  const [showNav, setShowNav] = useState(true);
+
+  useEffect(() => {
+    if (pathname.pathname === "/") {
+      setShowNav(true);
+    } else {
+      setShowNav(false);
+    }
+  }, [pathname.pathname]);
 
   const toggleNavigation = () => {
     if (openNavigation) {
@@ -29,6 +39,8 @@ const Header = () => {
     setOpenNavigation(false);
   };
 
+
+
   return (
     <div
       className={`fixed top-0 left-0 w-full z-50  border-b border-n-6 lg:bg-n-8/90 lg:backdrop-blur-sm ${
@@ -46,7 +58,7 @@ const Header = () => {
           } fixed top-[5rem] left-0 right-0 bottom-0 bg-n-8 lg:static lg:flex lg:mx-auto lg:bg-transparent`}
         >
           <div className="relative z-2 flex flex-col items-center justify-center m-auto lg:flex-row">
-            {navigation.map((item) => (
+            {showNav && navigation.map((item) => (
               <a
                 key={item.id}
                 href={item.url}
