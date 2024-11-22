@@ -7,7 +7,7 @@ import { BackgroundCircles, BottomLine } from "./design/Hero";
 import { useRef } from "react";
 // import herov2 from "../assets/hero/herov2.json"
 // import Notification from "./Notification";
-import CompanyLogos from "./CompanyLogos";
+// import CompanyLogos from "./CompanyLogos";
 // import Lottie from "lottie-react";
 const Hero = () => {
   const parallaxRef = useRef(null);
@@ -58,7 +58,7 @@ const Hero = () => {
           <BackgroundCircles />
         </div>
 
-        <CompanyLogos className="hidden relative z-10 mt-20 lg:block" />
+        {/* <CompanyLogos className="hidden relative z-10 mt-20 lg:block" /> */}
       </div>
 
       <BottomLine />
