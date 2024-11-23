@@ -51,10 +51,10 @@ const Terms = () => {
             You are advised to read the Terms carefully before accessing or
             registering on the Site. By accessing the Site, you are agreeing to
             the Terms, whether or not you are a registered user. Please contact
-            [support@GigaZonecommunication.in] if you require any
+            [support@Gigazone.in] if you require any
             clarifications.
             <br />
-            The materials on the Site are provided by GigaZone Solution
+            The materials on the Site are provided by Gigazone Solution
             PVT. LTD., an Indian company, having its registered office at
             [Company&apos;s Address] (&quot;the Company&quot;) as a service to its users and
             subscribers, and may be used for informational purposes only. If you

@@ -23,33 +23,33 @@ const Legal = () => {
             <p className="py-6  w-full mx-auto text-justify">
               The information contained in this website (www.Gigazone.in) is for
               general information purposes only. This website is owned,
-              operated, and managed by GigaZone Communication Pvt. Ltd.
-              (GigaZone) and is intended to provide information about the
-              products and services of GigaZone and its group or associate
-              companies. While we endeavor to keep the information up-to-date
-              and correct, we make no representations or warranties of any kind,
-              express or implied, about the completeness, accuracy (whether
-              technical or otherwise), typographical errors, reliability,
-              suitability, or availability with respect to the website or the
-              information, products, services, or related graphics contained on
-              the website for any purpose. Any reliance you place on such
-              information is therefore strictly at your own risk. In no event
-              shall we be liable for any loss or damage including without
-              limitation, indirect or consequential loss or damage, or any loss
-              or damage whatsoever arising from loss of data or profits arising
-              out of, or in connection with, the use of this website.
+              operated, and managed by Gigazone Solution Pvt. Ltd. (Gigazone)
+              and is intended to provide information about the products and
+              services of Gigazone and its group or associate companies. While
+              we endeavor to keep the information up-to-date and correct, we
+              make no representations or warranties of any kind, express or
+              implied, about the completeness, accuracy (whether technical or
+              otherwise), typographical errors, reliability, suitability, or
+              availability with respect to the website or the information,
+              products, services, or related graphics contained on the website
+              for any purpose. Any reliance you place on such information is
+              therefore strictly at your own risk. In no event shall we be
+              liable for any loss or damage including without limitation,
+              indirect or consequential loss or damage, or any loss or damage
+              whatsoever arising from loss of data or profits arising out of, or
+              in connection with, the use of this website.
             </p>
             <p className="py-6  w-full mx-auto text-justify">
               This website contains links to other websites which are not under
-              the control of GigaZone. We have no control over the nature,
+              the control of Gigazone. We have no control over the nature,
               content, and availability of those sites. The inclusion of any
               links does not necessarily imply a recommendation or endorse the
-              views expressed within them. GigaZone will not be responsible for
+              views expressed within them. Gigazone will not be responsible for
               any damages, including without limitation, any special, indirect,
               incidental, or consequential damages, that may arise from any use
               of, inability to use, or reliance on the site and/or the materials
               contained on the site whether the materials contained on the site
-              are provided by GigaZone or by a third party. GigaZone cannot
+              are provided by Gigazone or by a third party. Gigazone cannot
               guarantee that information (which may include personal
               information) transmitted by the user to us or through the Service
               or to third parties will not be intercepted by, or disclosed to,
@@ -62,7 +62,7 @@ const Legal = () => {
             </p>
             <p className="py-6  w-full mx-auto text-justify">
               Every effort is made to keep the website up and running smoothly.
-              However, GigaZone takes no responsibility for, and will not be
+              However, Gigazone takes no responsibility for, and will not be
               liable for, the website being temporarily unavailable due to
               technical issues beyond our control. Though we make every
               reasonable effort to preserve user privacy, we may need to
@@ -102,21 +102,21 @@ const Legal = () => {
 
             <h4>Refund Policy</h4>
             <p className="py-6  w-full mx-auto text-justify">
-              GigaZone Solution Pvt. Ltd. does not entertain refund of any
+              Gigazone Solution Pvt. Ltd. does not entertain refund of any
               amounts that may have been paid by the &apos;subscriber&apos; for
               an Annual / Semi-Annual / Quarterly / Monthly plan. Only in case
               of non-feasibility of a new connection, refund is made by
-              GigaZone. The time for a refund to be effected is 4-6 weeks.
-              GigaZone provides service discounts in line with TRAI policy on
+              Gigazone. The time for a refund to be effected is 4-6 weeks.
+              Gigazone provides service discounts in line with TRAI policy on
               the same, on a case-to-case basis, as needed. In case of billing
-              disputes, GigaZone subscribers are required to email their
+              disputes, Gigazone subscribers are required to email their
               specific concerns and the same will be addressed in 4-8 weeks, by
               way of a discount/credit note passed in the account of the
               &apos;subscriber&apos;.
             </p>
             <h4>Privacy Policy</h4>
             <p className="py-6  w-full mx-auto text-justify">
-              This policy covers how GigaZone Solution Pvt. Ltd.
+              This policy covers how Gigazone Solution Pvt. Ltd.
               (&quot;Company&quot;) treats personal information that the Company
               collects and receives, including information related to your past
               use of the Company&apos;s products and services. Personal
