@@ -341,7 +341,7 @@ export const footerlinks = [
   },
   {
     id: "1",
-    title: "Legal",
+    title: "Privacy Policy",
     url: "/legal",
   },
 ];

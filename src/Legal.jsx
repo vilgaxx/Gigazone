@@ -112,7 +112,8 @@ const Legal = () => {
               disputes, Gigazone subscribers are required to email their
               specific concerns and the same will be addressed in 4-8 weeks, by
               way of a discount/credit note passed in the account of the
-              &apos;subscriber&apos;.
+              &apos;subscriber&apos;. Refund will be credited within 4-8 weeks
+              in your original payment method.
             </p>
             <h4>Privacy Policy</h4>
             <p className="py-6  w-full mx-auto text-justify">
