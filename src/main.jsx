@@ -6,7 +6,7 @@ import App from "./App.jsx";
 import Terms from "./Terms.jsx";
 import Legal from "./Legal.jsx";
 import "./index.css";
-import Contact from "./components/contact.jsx";
+import Contact from "./Contact.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
